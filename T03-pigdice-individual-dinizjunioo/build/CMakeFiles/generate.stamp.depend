@@ -1,0 +1,23 @@
+# CMake generation dependency list for this directory.
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/3.23.1/CMakeCCompiler.cmake
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/3.23.1/CMakeCXXCompiler.cmake
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/3.23.1/CMakeRCCompiler.cmake
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/3.23.1/CMakeSystem.cmake
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/src/CMakeLists.txt
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeCInformation.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeCXXInformation.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeCommonLanguageInclude.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeGenericSystem.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeInitializeConfigs.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeLanguageInformation.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeRCInformation.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeSystemSpecificInformation.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Compiler/MSVC-C.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Compiler/MSVC-CXX.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows-MSVC-C.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows-MSVC.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Platform/Windows.cmake
+C:/Users/Diniz/Pictures/cmake-3.23.1-windows-x86_64/cmake-3.23.1-windows-x86_64/share/cmake-3.23/Modules/Platform/WindowsPaths.cmake

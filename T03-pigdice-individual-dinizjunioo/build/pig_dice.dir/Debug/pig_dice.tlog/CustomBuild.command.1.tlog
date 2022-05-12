@@ -1,0 +1,10 @@
+^C:\USERS\DINIZ\DESKTOP\LP3-FINAL2\T03-PIGDICE-INDIVIDUAL-DINIZJUNIOO\SRC\CMAKELISTS.TXT
+setlocal
+C:\Users\Diniz\Pictures\cmake-3.23.1-windows-x86_64\cmake-3.23.1-windows-x86_64\bin\cmake.exe -SC:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/src -BC:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build --check-stamp-file C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

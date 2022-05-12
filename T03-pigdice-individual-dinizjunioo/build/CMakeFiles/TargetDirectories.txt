@@ -1,0 +1,3 @@
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/pig_dice.dir
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Diniz/Desktop/lp3-final2/T03-pigdice-individual-dinizjunioo/build/CMakeFiles/ZERO_CHECK.dir
